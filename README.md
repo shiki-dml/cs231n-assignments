@@ -1,4 +1,3 @@
-%%writefile README.md
 # CS231n: Deep Learning for Computer Vision 🚀
 
 Welcome to my CS231n coursework repository! This repository contains my personal solutions and implementations for the assignments of Stanford University's famous course: **Convolutional Neural Networks for Visual Recognition (CS231n)**.
