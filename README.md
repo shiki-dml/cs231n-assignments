@@ -1,4 +1,4 @@
-# CS231n: Deep Learning for Computer Vision 
+# CS231n: Deep Learning for Computer Vision
 
 Welcome to my CS231n coursework repository! This repository contains my personal solutions and implementations for the assignments of Stanford University's famous course: **Convolutional Neural Networks for Visual Recognition (CS231n)**.
 
@@ -7,10 +7,11 @@ All code is implemented in Python, utilizing NumPy for building neural network c
 ## Course Progress
 
 - [x] **Assignment 1:** Image Classification, kNN, SVM, Softmax, Neural Network
-- [ ] **Assignment 2:** Fully-Connected Nets, Batch Normalization, Dropout, CNNs
+- [x] **Assignment 2:** Fully-Connected Nets, Batch Normalization, Dropout, CNNs
 - [ ] **Assignment 3:** Image Captioning, Network Visualization, Style Transfer, GANs
 
 ---
+**"Due to GitHub size limits, we didn't upload the dataset."**
 
 ## Assignment 1 (Completed)
 
@@ -29,8 +30,18 @@ This assignment focuses on the basic concepts of image classification, data-driv
 
 
 ## Assignment 2 (Work in Progress)
-*Currently battling with the vanishing gradients in deeper networks... Updates coming soon!*
 
+This assignment focuses on deeper neural network architectures, training stability, regularization techniques, and convolutional models. The current work in this folder is organized around the following notebooks and submission utilities.
 
+- [x] **1: Batch Normalization**
+  - The notebook `BatchNormalization.ipynb` explores normalization techniques for improving optimization stability and convergence in deep networks.
+- [x] **2: Dropout**
+  - The notebook `Dropout.ipynb` walks through dropout regularization and how it helps reduce overfitting.
+- [x] **3: Convolutional Networks**
+  - The notebook `ConvolutionalNetworks.ipynb` covers convolution, pooling, and CNN-based image classification workflows.
+- [x] **4: PyTorch**
+  - The notebook `PyTorch.ipynb` introduces building and training deep learning models with PyTorch.
+- [x] **5: RNN Architecture**
+  - The notebook `RNN_Captioning_pytorch.ipynb` build an RNN architecture using PyTorch
 ## Assignment 3 (To Do)
 *Pending...*
